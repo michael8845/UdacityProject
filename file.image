@@ -1,0 +1,9 @@
+.image1{
+  width: 100%;
+           height: 100vh;
+           color: brown;
+           background: url('project.jpg');
+           background-size: contain;
+           background-repeat: no-repeat;
+           grid-area: d;
+} 
